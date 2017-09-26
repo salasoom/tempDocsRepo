@@ -6,6 +6,7 @@
 int main(int argc, char *argv[])
 {
   printf("Ok.\n");
+  printf("On develop branch.\n");
   printf("Result: %d\n", helperFun(1));
 
   return 0;

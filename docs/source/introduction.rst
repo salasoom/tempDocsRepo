@@ -4,7 +4,7 @@
 Introduction
 ============
 
-This is version 0.2.0.
+This is version 0.3.0.
 
 |tempDocsRepo| was originally designed for testing readthedocs...
 

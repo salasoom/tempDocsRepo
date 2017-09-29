@@ -1,6 +1,6 @@
 .. include:: defs.rst
 
-|tempDocsRepo| 0.3.1 documentation
+|tempDocsRepo| 0.4.0 documentation
 =========================
 
 .. toctree::

@@ -1,3 +1,2 @@
 # tempDocsRepo
-Release 0.4.0
-new line
+Release 0.5.0

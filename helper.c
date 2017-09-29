@@ -1,4 +1,5 @@
 int helperFun(int a)
 {
-  return a * 2 + 3;
+  int x = a * a;
+  return a * 2 + x;
 }
